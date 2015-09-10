@@ -1,0 +1,17 @@
+<repository lastmodified='20140611034033.212'>
+  <resource id='org.mapdb.mapdb/1.1.0.SNAPSHOT' symbolicname='org.mapdb.mapdb' presentationname='mapdb' uri='org/mapdb/mapdb/1.1.0-SNAPSHOT/mapdb-1.1.0-SNAPSHOT.jar' version='1.1.0.SNAPSHOT'>
+    <description>MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap memory. It is a fast, scalable and easy to use embedded Java database.</description>
+    <size>415991</size>
+    <license>http://www.apache.org/licenses/LICENSE-2.0.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='org.mapdb.mapdb'/>
+      <p n='presentationname' v='mapdb'/>
+      <p n='version' t='version' v='1.1.0.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='org.mapdb'/>
+      <p n='version' t='version' v='1.1.0.SNAPSHOT'/>
+    </capability>
+  </resource>
+</repository>

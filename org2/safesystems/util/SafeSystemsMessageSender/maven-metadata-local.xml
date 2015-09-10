@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org2.safesystems.util</groupId>
+  <artifactId>SafeSystemsMessageSender</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150813155401</lastUpdated>
+  </versioning>
+</metadata>
